@@ -186,7 +186,7 @@ const Education = () => {
           </h3>
           <p className="text-gray-300 text-lg mb-2">Universidad de Margarita</p>
           <p className="text-gray-400 text-base">
-            (2021 - 2025) • <span className="text-yellow-400 font-semibold">En espera de título</span>
+             <span className="text-yellow-400 font-semibold"></span>
           </p>
         </div>
       </div>
